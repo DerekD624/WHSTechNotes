@@ -7,3 +7,10 @@
 > Note: In your paragraph, describe how the sensor you chose works and how it helps the Sphero BOLT operate. Does it measure light, speed, direction, or something else? Provide details about how the sensor gathers data and how the robot uses that information to move or react to its surroundings. Try to give an example of how this sensor might be used in a specific activity or challenge
 
 The sphero BOLT has compass light sensor, accelerometer, motor encoders those are the 3 sensors found in the Sphero BOLT.
+
+# September 27 2024
+Ease of Use: Which did you find easier to understand and why? 
+I understand a little bit of it but not all of it but I know it will get easier.
+
+How did the two approaches help you solve coding challenges?
+
