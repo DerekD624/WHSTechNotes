@@ -14,3 +14,12 @@ I understand a little bit of it but not all of it but I know it will get easier.
 
 How did the two approaches help you solve coding challenges?
 
+# October 3 2024
+Go to khanacademy.org/join
+Enter your class code ZNS8YMYT
+Press Continue
+If you don’t already have an account, press Create a new account - Enter your date of birth, then sign up using Google, your school email, or by creating a username.
+Enter your grade and course.
+Now you’re ready to start learning!
+
+
