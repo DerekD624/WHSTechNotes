@@ -8,18 +8,28 @@
 
 The sphero BOLT has compass light sensor, accelerometer, motor encoders those are the 3 sensors found in the Sphero BOLT.
 
-# September 27 2024
+# September 27, 2024
 Ease of Use: Which did you find easier to understand and why? 
 I understand a little bit of it but not all of it but I know it will get easier.
 
 How did the two approaches help you solve coding challenges?
 
-# October 3 2024
+# October 3, 2024
 Go to khanacademy.org/join
 Enter your class code ZNS8YMYT
 Press Continue
 If you don’t already have an account, press Create a new account - Enter your date of birth, then sign up using Google, your school email, or by creating a username.
 Enter your grade and course.
 Now you’re ready to start learning!
+
+# October 4, 2024 
+1. Khan Academy Lesson 2: Program execution
+Data types
+Print statements and adding values
+Tracing program execution
+Syntax, runtime, and logic errors
+Trace program execution
+Debugging with stack traces
+Challenge: Pair programming
 
 
