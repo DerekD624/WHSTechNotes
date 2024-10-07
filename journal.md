@@ -23,13 +23,8 @@ Enter your grade and course.
 Now you’re ready to start learning!
 
 # October 4, 2024 
-1. Khan Academy Lesson 2: Program execution
-Data types
-Print statements and adding values
-Tracing program execution
-Syntax, runtime, and logic errors
-Trace program execution
-Debugging with stack traces
-Challenge: Pair programming
+Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
+
+I would say Litsening to music, watching movies, phones,ipads, tablets, it impacts out live because they are electronic devices and we use them everyday helps with bugs or lacks, and helps with our daily life.
 
 
