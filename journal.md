@@ -28,3 +28,13 @@ Think about your daily routine and activities. Identify one task or process wher
 I would say Litsening to music, watching movies, phones,ipads, tablets, it impacts out live because they are electronic devices and we use them everyday helps with bugs or lacks, and helps with our daily life.
 
 
+# October 15 
+How can coding improve problem-solving skills?
+How might understanding code help you in industries that aren’t directly related to technology, such as healthcare, finance, or education?
+How does coding enhance creativity or collaboration?
+
+1. How I would improve in coding would be by paying attention in class understanding the question. 
+2. understanding coding will help me in other indistries significantly improve your ability to analyze data, solve complex problems, think logically, and effectively communicate with technical teams.
+3. It will enhance and be collaboration because y encouraging individuals to think critically, explore different solutions to problems, experiment with various approaches, and ultimately find innovative ways to tackle challenges.
+
+
