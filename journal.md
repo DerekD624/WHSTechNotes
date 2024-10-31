@@ -28,7 +28,7 @@ Think about your daily routine and activities. Identify one task or process wher
 I would say Litsening to music, watching movies, phones,ipads, tablets, it impacts out live because they are electronic devices and we use them everyday helps with bugs or lacks, and helps with our daily life.
 
 
-# October 15
+# October 15 2024
 Write a paragraph or more focused on the following:
 
 1. How can coding improve problem-solving skills?
@@ -41,6 +41,22 @@ Write a paragraph or more focused on the following:
 3. How does coding enhance creativity or collaboration?
 
 Coding fosters creativity by providing a platform to build and design soulutions to problems, encouraging innovative thinking and experimentation.
+
+# October 7 2024 
+Job Title: What is the job or career path you researched? I searched up Real Estate 
+Job Description: What are the main responsibilities or tasks for this role? s property consisting of land and the buildings on it, along with its natural resources such as growing crops, minerals or water, and wild animals.
+Skills Required: What programming languages, tools, or skills are important for this position? PHP, Python and Java. Proficiency in using real estate databases, virtual tour software, and customer relationship management systems.
+Education and Experience: What level of education or experience is typically needed for this role? high school diploma or equivalent 180 hours of qualifying real estate courses through a TREC-approved real estate education provider.
+Career Growth: What opportunities for growth or advancement are available in this career? Sales agents may advance by getting a broker's license. Brokers may open their own business or work as associate brokers to manage an independent office within a real estate company. 
+Reflection: How does this job align with your interests and goals in computer science? Once you know your interests and what you're good at, make a list of potential careers that overlap. 
+
+# October 21 2024 
+How AI works? by combining large sets of data with intelligent, iterative processing algorithms to learn from patterns and features in the data that they analyze. 
+Why AI matters? to enable machines or software to perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, perception, and language understanding.
+Ethics & AI: Equal Access and Algorithmic Bias?  refers to the tendency of algorithms to reflect human biases.
+Ethics & AI: Privacy & the Future of Work? , 2024 will be a year of significant change for AI. Companies will need to focus on responsible and ethical AI practices, ramp up their adoption of AI solutions, and be mindful of the impact that AI will have on their workforce.
+
+The Future of AI: What 2024 Holds for Responsibl
 
 
 
