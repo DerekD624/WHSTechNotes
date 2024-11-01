@@ -28,7 +28,7 @@ Think about your daily routine and activities. Identify one task or process wher
 I would say Litsening to music, watching movies, phones,ipads, tablets, it impacts out live because they are electronic devices and we use them everyday helps with bugs or lacks, and helps with our daily life.
 
 
-# October 15 2024
+# October 15, 2024
 Write a paragraph or more focused on the following:
 
 1. How can coding improve problem-solving skills?
