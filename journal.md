@@ -42,7 +42,7 @@ Write a paragraph or more focused on the following:
 
 Coding fosters creativity by providing a platform to build and design soulutions to problems, encouraging innovative thinking and experimentation.
 
-# October 7 2024 
+# October 7, 2024 
 Job Title: What is the job or career path you researched? I searched up Real Estate 
 Job Description: What are the main responsibilities or tasks for this role? s property consisting of land and the buildings on it, along with its natural resources such as growing crops, minerals or water, and wild animals.
 Skills Required: What programming languages, tools, or skills are important for this position? PHP, Python and Java. Proficiency in using real estate databases, virtual tour software, and customer relationship management systems.
@@ -50,7 +50,7 @@ Education and Experience: What level of education or experience is typically nee
 Career Growth: What opportunities for growth or advancement are available in this career? Sales agents may advance by getting a broker's license. Brokers may open their own business or work as associate brokers to manage an independent office within a real estate company. 
 Reflection: How does this job align with your interests and goals in computer science? Once you know your interests and what you're good at, make a list of potential careers that overlap. 
 
-# October 21 2024 
+# October 21, 2024 
 How AI works? by combining large sets of data with intelligent, iterative processing algorithms to learn from patterns and features in the data that they analyze. 
 Why AI matters? to enable machines or software to perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, perception, and language understanding.
 Ethics & AI: Equal Access and Algorithmic Bias?  refers to the tendency of algorithms to reflect human biases.
