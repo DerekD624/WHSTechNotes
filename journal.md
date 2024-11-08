@@ -56,7 +56,7 @@ Why AI matters? to enable machines or software to perform tasks that typically r
 Ethics & AI: Equal Access and Algorithmic Bias?  refers to the tendency of algorithms to reflect human biases.
 Ethics & AI: Privacy & the Future of Work? , 2024 will be a year of significant change for AI. Companies will need to focus on responsible and ethical AI practices, ramp up their adoption of AI solutions, and be mindful of the impact that AI will have on their workforce.
 
-# November 4,2024 
+# November 4, 2024 
 Reflect on the following questions:
 
 1. Why is it important to protect your personal and sensitive information when publishing online? if sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms.
