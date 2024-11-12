@@ -67,7 +67,14 @@ Reflect on the following questions:
 
  4. How can you balance being open and collaborative in online spaces like working with others on coding projects while still protecting your privacy? limit data access and sharing to only those who need it and only for the purposes that are relevant and necessary for your collaboration.
 
+# November 12, 2024 
+Choose a current event that interests you or impacts your community.
 
+1. In a paragraph, briefly summarize the event and explain how it relates to any of the concepts we’ve been learning in class (e.g., problem-solving, technology, or data analysis). 
+The concept of Real Estate can be intricately linked to the learning of computer science through various avenues such a data analysis, algorthm development, and automation.
+
+2. In a second paragraph, reflect on how advancements in computer science or technology could play a role in addressing this event or similar issues in the future.
+The interigation of artifical intelligence and machine learning will enable more sophisticated analyses of market trends, allowing Real Estate professionals to anticipate shifts in buyer behaviour and property values with greater accuracy.
 
 
 
