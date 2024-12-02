@@ -82,6 +82,13 @@ Prompt: Reflect on how technology has changed the way we grow, distribute, and p
 
 Technology has significally transformed the landscape of purschasing and accessing food, partically during the holiday season, by enchancing convenience and affordability.
 
+# December 2, 2024 
+• What excites or concerns you about this technology? Its potiential to solve complex problems like math.
+
+• Can you think of an innovative way this technology could be used in your field of interest? develop a real time, highly accurate environmental monitoring system that uses satellite imagery and sensor networks to identify and predict pollution hotspots
+
+• What ethical considerations might need to be addressed as this technology evolves? : With technological advancements, it's crucial to prioritize ethical considerations in the development and deployment of technology. 
+
 
 
 
