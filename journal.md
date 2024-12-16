@@ -89,6 +89,17 @@ Technology has significally transformed the landscape of purschasing and accessi
 
 • What ethical considerations might need to be addressed as this technology evolves? : With technological advancements, it's crucial to prioritize ethical considerations in the development and deployment of technology. 
 
+# December 9, 2024
+What does the term “brain rot” mean to you? Do you feel like digital media has had a positive or negative impact on your mental well-being this year?
 
+I would say like twitter and instagram bc people you dont know be hitting you up ethier for drama or just because they feel like bullying someone for no reason at all and it be scaring some people who dont know how to defend themslves and commets too.
 
+How do runner-up words like “slop” and “lore” connect to your experience with technology in 2024?
+
+The word Slop may evoke images of the casual often messy nature of ditigal content dominates.
+The word lore to rich narratives and histories that emerge within online communities and gaming cultures.
+
+In your opinion, is it possible to balance meaningful engagement with technology while avoiding “brain rot”? If so, how?
+
+Yes because it requries a conscious approach to how we react to ditigal tools and content.
 
