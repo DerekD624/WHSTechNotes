@@ -103,3 +103,7 @@ In your opinion, is it possible to balance meaningful engagement with technology
 
 Yes because it requries a conscious approach to how we react to ditigal tools and content.
 
+
+# December 16, 2024
+
+Im looking forward to getting alot more sleep and look forward to getting my skin clearer and let my hair grow out some more.
