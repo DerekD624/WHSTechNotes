@@ -103,7 +103,27 @@ In your opinion, is it possible to balance meaningful engagement with technology
 
 Yes because it requries a conscious approach to how we react to ditigal tools and content.
 
-
 # December 16, 2024
 
 Im looking forward to getting alot more sleep and look forward to getting my skin clearer and let my hair grow out some more.
+
+# January 8, 2025
+
+Looking Back:
+
+Reflect on last semester. What did you enjoy most about the class? What could be improved? Feel free to share any specific feedback about the lessons, projects, or activities we did.
+I enjoyed understanding computer science and all the technology that comes with it.
+
+Looking Ahead:
+
+As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on?
+Just get to learn more abt computers and codes.
+
+Certifications:
+
+Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal?
+
+Maybe idk yet.
+
+
+
