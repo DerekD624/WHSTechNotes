@@ -125,5 +125,9 @@ Are you interested in pursuing any certifications related to this class (e.g., P
 
 Maybe idk yet.
 
+# January 13, 2025
+The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this one?
+
+In the aftermath of the pandemic-induced tech boom, many companies are now recalibrating their workforce to match current economic and market conditions. During this restructuring phase, businesses are reallocating resources, with firms pivoting away from traditional tech and heavily investing in AI-related products, services and talent.
 
 
