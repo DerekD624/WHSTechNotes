@@ -130,4 +130,12 @@ The tech industry is shifting towards prioritizing artificial intelligence (AI) 
 
 In the aftermath of the pandemic-induced tech boom, many companies are now recalibrating their workforce to match current economic and market conditions. During this restructuring phase, businesses are reallocating resources, with firms pivoting away from traditional tech and heavily investing in AI-related products, services and talent.
 
+# January 22, 2025
+
+How do you think government intervention impacts technology companies and their users? It helps us and our devices stay safe from being hacked.
+In your opinion, how could companies like TikTok address security concerns while continuing to operate globally? Um idk.
+Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why. I would say for them to make sure people that tiktok hackers aint looking thru our phones.
+What lessons can you take from this situation to apply to your own projects in this course? idk
+
+
 
