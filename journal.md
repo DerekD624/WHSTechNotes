@@ -137,5 +137,14 @@ In your opinion, how could companies like TikTok address security concerns while
 Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why. I would say for them to make sure people that tiktok hackers aint looking thru our phones.
 What lessons can you take from this situation to apply to your own projects in this course? idk
 
+# January 27, 2025 
+
+  Name      Car       Mistake 
+     :-------  :--  :------ 
+     Jimmy              
+     Kayla                  
+     Bart                   
+     Harrison             
+
 
 
