@@ -140,9 +140,9 @@ What lessons can you take from this situation to apply to your own projects in t
 # January 27, 2025  
 | Name     | Car | Mistake |
 | :------- | :-- | :------ |
-| Jimmy    |  Honda Civic   |    Drilled a hole in the gas tank     |
-| Kayla    |     |         |
-| Bart     |     |         |
+| Jimmy    |  Honda Civic   |   Drilled a hole in the gas tank     |
+| Kayla    |  GMC Sierra     |  Fixed wrong problem        |
+| Bart     |  Toyota Coralla   |Left stains on carpet          |
 | Harrison |     |         |
      Jimmy           Honda Civic       Drilled a hole in the gas tank
      Kayla           GMC Sierra        Fixed wrong problem
