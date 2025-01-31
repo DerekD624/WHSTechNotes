@@ -143,10 +143,8 @@ What lessons can you take from this situation to apply to your own projects in t
 | Jimmy    |  Honda Civic   |   Drilled a hole in the gas tank     |
 | Kayla    |  GMC Sierra     |  Fixed wrong problem        |
 | Bart     |  Toyota Coralla   |Left stains on carpet          |
-| Harrison |     |         |
-     Jimmy           Honda Civic       Drilled a hole in the gas tank
-     Kayla           GMC Sierra        Fixed wrong problem
-     Bart            Toyota Coralla    Left stains on carpet    
-     Harrison        Subaru forester   Left the oil cap off
+| Harrison |  Subaru forester   | Left the oil cap off
+        |
+     
 
      
