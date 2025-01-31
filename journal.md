@@ -137,11 +137,16 @@ In your opinion, how could companies like TikTok address security concerns while
 Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why. I would say for them to make sure people that tiktok hackers aint looking thru our phones.
 What lessons can you take from this situation to apply to your own projects in this course? idk
 
-# January 27, 2025 
-
-  Name                 Car              Mistake 
-     :-------          :--             :------ 
+# January 27, 2025  
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    |  Honda Civic   |    Drilled a hole in the gas tank     |
+| Kayla    |     |         |
+| Bart     |     |         |
+| Harrison |     |         |
      Jimmy           Honda Civic       Drilled a hole in the gas tank
      Kayla           GMC Sierra        Fixed wrong problem
      Bart            Toyota Coralla    Left stains on carpet    
      Harrison        Subaru forester   Left the oil cap off
+
+     
