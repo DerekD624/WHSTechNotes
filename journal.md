@@ -144,7 +144,15 @@ What lessons can you take from this situation to apply to your own projects in t
 | Kayla    |  GMC Sierra     |  Fixed wrong problem        |
 | Bart     |  Toyota Coralla   |Left stains on carpet          |
 | Harrison |  Subaru forester   | Left the oil cap off
-        |
+
+# Febuary 3, 2025
+1. Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions? AI it helps contollers make decisions by scaninng data.
+2. Automation & AI in Aviation – The role of autopilot systems, real-time alerts, and AI-driven decision-making.
+
+        
+      
+
+        
      
 
      
