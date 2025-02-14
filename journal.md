@@ -148,8 +148,15 @@ What lessons can you take from this situation to apply to your own projects in t
 # Febuary 3, 2025
 1. Air Traffic Control Systems – How do computer algorithms manage airspace and prevent collisions? AI it helps contollers make decisions by scaninng data.
 2. Automation & AI in Aviation – The role of autopilot systems, real-time alerts, and AI-driven decision-making.
-3. Software Errors & Bugs – How can coding flaws or miscommunication between different software systems contribute to accidents? Coding flaws and miscommunication can lead to unpredictable system behavior and incorrect decision-making, contrubing to  
-        
+3. Software Errors & Bugs – How can coding flaws or miscommunication between different software systems contribute to accidents? Coding flaws and miscommunication can lead to unpredictable system behavior and incorrect decision-making, contrubing to
+
+
+# Febuary 11, 2025
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
       
 
         
