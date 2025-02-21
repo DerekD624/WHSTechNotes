@@ -151,14 +151,14 @@ What lessons can you take from this situation to apply to your own projects in t
 3. Software Errors & Bugs – How can coding flaws or miscommunication between different software systems contribute to accidents? Coding flaws and miscommunication can lead to unpredictable system behavior and incorrect decision-making, contrubing to
 
 
-# Febuary 11, 2025
+# February 11, 2025
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
       
-# Febuary 18, 2025
+# February 18, 2025
 What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting. 
 My AR meeting it taught me how their are people who really care for my future and want me to accomplish my goals and Dreams and it really goes to show how much their are kind hearts in the world.
         
