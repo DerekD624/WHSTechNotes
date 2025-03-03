@@ -162,6 +162,7 @@ What lessons can you take from this situation to apply to your own projects in t
 What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting. 
 My AR meeting it taught me how their are people who really care for my future and want me to accomplish my goals and Dreams and it really goes to show how much their are kind hearts in the world.
         
-     
+# March 3, 2025
+The substitute was nice and cool the class was good and the class was just on their phones or computer and just chilling.
 
      
