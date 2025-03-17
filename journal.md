@@ -165,4 +165,9 @@ My AR meeting it taught me how their are people who really care for my future an
 # March 3, 2025
 The substitute was nice and cool the class was good and the class was just on their phones or computer and just chilling.
 
+# March 17, 2025
+What types of technology did you use most often? (Examples: apps, games, programming tools, robotics, social media, etc? Mainly tik tok, and instagram 
+How did this technology help you, entertain you, or challenge you in some way? It helps me bc i can relate to alot of people, its entertaning bc you understand peoples perspetif.
+Can you connect any of your technology use to what we learn in this class? Think about problem-solving, coding, game development, app functionality, or other related skills? yes bc its how we learn and its easier than having to do problems on paper.
+
      
