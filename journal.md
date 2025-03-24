@@ -170,4 +170,8 @@ What types of technology did you use most often? (Examples: apps, games, program
 How did this technology help you, entertain you, or challenge you in some way? It helps me bc i can relate to alot of people, its entertaning bc you understand peoples perspetif.
 Can you connect any of your technology use to what we learn in this class? Think about problem-solving, coding, game development, app functionality, or other related skills? yes bc its how we learn and its easier than having to do problems on paper.
 
-     
+# March 24, 2025 
+March Madness, the annual NCCA basketball tournament, has become a showcase for the integration of advanced technologies that enchance both gameplay and fan engagement. The incorperation of artifical intelligence (AI) to predict game outcomes has revoulutionized how fans approach the tournament, allowing them to analyze data and make informed decisions when filling out their brackets.
+
+
+
