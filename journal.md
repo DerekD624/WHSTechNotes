@@ -173,5 +173,21 @@ Can you connect any of your technology use to what we learn in this class? Think
 # March 24, 2025 
 March Madness, the annual NCCA basketball tournament, has become a showcase for the integration of advanced technologies that enchance both gameplay and fan engagement. The incorperation of artifical intelligence (AI) to predict game outcomes has revoulutionized how fans approach the tournament, allowing them to analyze data and make informed decisions when filling out their brackets.
 
+# March 31, 2025
+How are you feeling right now—mentally, emotionally, and physically?
+Good Im in a happy place rn and im really loving my peace with God.
+
+What’s been the most stressful part of school lately?
+Having to catch up on these missing assiments.
+
+What are some things you do (or could do) to take care of yourself during stressful times?
+Pray and read the bible and listsen to music.
+
+What’s one goal you have for the rest of the school year? How will you stay motivated to reach it?
+To Elevate in Dance and and strech alot more and put my faith in the lord that i can do it.
+
+Who is someone you can talk to when you’re feeling overwhelmed? Why do you trust them?
+Jesus and my Bsf bc they both do not judge be and love me for who i am and dont judge me for it.
+
 
 
