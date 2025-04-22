@@ -189,7 +189,7 @@ To Elevate in Dance and and strech alot more and put my faith in the lord that i
 Who is someone you can talk to when you’re feeling overwhelmed? Why do you trust them?
 Jesus and my Bsf bc they both do not judge be and love me for who i am and dont judge me for it.
 
-# April 14, 2025
+# April 22, 2025
 
 
 
