@@ -190,9 +190,9 @@ Who is someone you can talk to when you’re feeling overwhelmed? Why do you tru
 Jesus and my Bsf bc they both do not judge be and love me for who i am and dont judge me for it.
 
 # May 5, 2025
-100 men vs 1 gorilla I say the Gorilla just bc it is bigger and has way more mass and power to destroy and take out alot of people.
-I think it would go viral cause we would get to learn on how the gorilla won eginst 100 men.
-it matters bc we get to learn and cope from it and understand it and use it for education learning what gorillas come from and understanding how and why they would win.
+1. 100 men vs 1 gorilla I say the Gorilla just bc it is bigger and has way more mass and power to destroy and take out alot of people.
+2. I think it would go viral cause we would get to learn on how the gorilla won eginst 100 men.
+3. it matters bc we get to learn and cope from it and understand it and use it for education learning what gorillas come from and understanding how and why they would win.
 
 # May 12, 2025
 
